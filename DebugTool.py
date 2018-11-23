@@ -4,7 +4,7 @@ import re
 import traceback
 
 try:
-	print(10 / 0)
+	print('Hello') + 1
 except Exception as title:
 	print(traceback.format_exc())
 
