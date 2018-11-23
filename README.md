@@ -1,4 +1,4 @@
-<title>Python Debug Tool</title>
+Python Debug Tool
 
 This tool can be used to easily debug your Python code.
 When an error occurs in your code, it will automatically search for the error on StackOverflow, and return the top rated answer from the highest ranking matching question. To achieve this, it makes use of the Stack Exchange API.
